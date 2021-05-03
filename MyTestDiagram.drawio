@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T08:55:55.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="j-naae8oW9s-6Rhv-ygh" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T08:58:57.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JdCMw6ks3tQlIy264G5i" version="14.6.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="6FR_N8LCpcasI4O6xKWx-26" value="Child" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6FR_N8LCpcasI4O6xKWx-23">
           <mxGeometry x="140" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6FR_N8LCpcasI4O6xKWx-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
